@@ -1,0 +1,12 @@
+name: ffi-hackrf
+summary: FFI bindings to libhackrf
+description: FFI bindings to the hackrf library.
+license: MIT
+authors: Postmodern
+email: postmodern.mod3@gmail.com
+homepage: https://github.com/sophsec/ffi-hackrf#readme
+
+development_dependencies:
+  rubygems-tasks: ~> 0.2
+  rspec: ~> 3.0
+  yard: ~> 0.8
