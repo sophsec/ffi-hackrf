@@ -1,7 +1,7 @@
 # ffi-hackrf
 
-* [Homepage](https://github.com/postmodern/ffi-hackrf#readme)
-* [Issues](https://github.com/postmodern/ffi-hackrf/issues)
+* [Homepage](https://github.com/sophsec/ffi-hackrf#readme)
+* [Issues](https://github.com/sophsec/ffi-hackrf/issues)
 * [Documentation](http://rubydoc.info/gems/ffi-hackrf/frames)
 * [Email](mailto:postmodern.mod3 at gmail.com)
 
