@@ -7,7 +7,7 @@
 
 ## Description
 
-FFI bindings for [libhackrf].
+(Experimental) FFI bindings for [libhackrf].
 
 ## Examples
 
